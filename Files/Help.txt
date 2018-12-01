@@ -1,0 +1,7 @@
+To watch your videos with subtitles, follow the following steps:
+
+1. Set your default media player as VLC Media Player.
+2. Click on the Play Button("Watch Your Movies With Subtitles").
+3. Choose the video(.mp4 format) from the dialog box.
+4. Click open and wait until your VLC Media player opens.
+5. Enjoy :)
